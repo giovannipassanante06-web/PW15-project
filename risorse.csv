@@ -1,0 +1,9 @@
+scenario,risorsa,capacita_giornaliera,costo_giornaliero
+A,manodopera,10,120
+A,macchinari,3,190
+A,trasporto,4,90
+A,monitoraggio_iot,0,0
+B,manodopera,6,120
+B,macchinari,6,220
+B,trasporto,5,95
+B,monitoraggio_iot,4,85

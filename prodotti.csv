@@ -1,0 +1,4 @@
+prodotto,sequenza_produttiva,resa_per_ettaro,tempo_per_unita,capacita_giornaliera_prodotto,priorita,manodopera_per_unita,macchinari_per_unita,trasporto_per_unita,deperibilita
+Grano,cerealicola,55,0.050,95,2,0.020,0.060,0.020,0.10
+Pomodori,orticola,700,0.080,70,1,0.070,0.025,0.045,0.85
+Olive,arborea,35,0.095,60,3,0.055,0.040,0.035,0.45

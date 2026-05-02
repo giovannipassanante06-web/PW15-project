@@ -1,0 +1,3 @@
+scenario,descrizione,criterio_pianificazione,setup_base,probabilita_imprevisto_base,ritardo_imprevisto_min,ritardo_imprevisto_max,spreco_base
+A,Gestione tradizionale basata su manodopera e pianificazione manuale,casuale,0.80,0.25,0.30,1.20,0.080
+B,Gestione digitalizzata con macchinari e monitoraggio IoT,priorita_digitale,0.80,0.25,0.30,1.20,0.080
